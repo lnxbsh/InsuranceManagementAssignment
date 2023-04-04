@@ -2,7 +2,7 @@
 
 ## Running Application
 
-To run the application, I have provided source code and compiled package at [github](https://github.com/lnxbsh/InsuranceManagementAssignment/master) 
+To run the application, I have provided source code and compiled package at [Github](https://github.com/lnxbsh/InsuranceManagementAssignment/tree/master) 
 
 > Download and unzip https://drive.google.com/file/d/1Dx8aAbqzw3xSC_PP4mtfzMqcDxc1XEDV/view?usp=sharing
 
